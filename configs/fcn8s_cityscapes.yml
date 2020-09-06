@@ -18,6 +18,5 @@ training:
     optimizer:
         name: adam
         lr: 1.0e-3
-        <optimizer_keyarg1>:<value>
     lr_schedule:
         name: constant_lr
