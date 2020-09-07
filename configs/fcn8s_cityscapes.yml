@@ -20,3 +20,4 @@ training:
         lr: 1.0e-3
     lr_schedule:
         name: constant_lr
+    resume:
